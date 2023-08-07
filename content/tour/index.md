@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: AI Committee Research Lab
-        content: 'Just opened last month!'
+      - title: AnitaB AI Committee Research
+        content: 'Check out our GitHub repo for more information on our research.'
         align: right
         background:
           image:
@@ -42,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: https://github.com/AnitaB-AI-Committee
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
