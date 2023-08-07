@@ -8,14 +8,19 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        AnitaB AI Committee
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        At AnitaB.org, we envision a future where the people who imagine and build technology mirror the people and societies for whom they build it. We connect, inspire, and guide women in computing, and organizations that view technology innovation as a strategic imperative. 
+
+        The AnitaB AI Committee guided by AnitaB.org oversees the program to develop thought leadership on the practical use as well as ethical implications of advances in artificial intelligence and explore ways to encourage women to be active participants in the AI community. Work with the other committees to enhance the value to the AnitaB members. Provide AI expertise at AnitaB events as needed.
+
+        At AIC, our mission is to  nurture more women  to pursue the path of AI with an aim to build inclusive and responsible AI products
+
   
   - block: collection
     content:
