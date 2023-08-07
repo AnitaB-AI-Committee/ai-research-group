@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         AnitaB AI Committee
-        Research Group
       image:
         filename: welcome.jpg
       text: |
@@ -66,7 +65,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the Committee →" %}}
     design:
       columns: '1'
 ---
