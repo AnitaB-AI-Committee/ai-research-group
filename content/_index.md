@@ -24,7 +24,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest Posts
       subtitle:
       text:
       count: 5
