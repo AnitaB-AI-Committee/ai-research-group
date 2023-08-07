@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Fatma Tarlaci, Ph.D.
+title: Zorina Alliata
 
 # Full Name (for SEO)
-first_name: Fatma
-last_name: Tarlaci
+first_name: Zorina
+last_name: Alliata
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: VP Engineering
+role: Principal AI/ML Strategist at Amazon
 
 # Organizations/Affiliations
 organizations:
-  - name: OpenTeams
+  - name: Amazon
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ask me about Machine Learning, Data Science, Natural Language Processing, Being a Tech Lead, Societal Impact of AI
+bio: Ask me about Applied Machine Learning in Industry, Machine Learning in Sustainability, AI Strategy and Leadership, Supporting Women in Tech, Anything about robots!
+
 
 interests:
   - Artificial Intelligence
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBA
+      institution: Strayer University
+      year: 2003
+    - course: MS, Computer Science
+      institution: Gheorghe Asachi​ Technical University of Iași
+      year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,4 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+AI Strategy and AI Product Management. Working with global companies to set up their AI strategy and design successful solutions and implementation plans for injecting AI and ML in their products and services. Advises executive leaders on AI decision making, ROI and AI risk management techniques. Creates and contributes to AI products and packaged solutions for complex business use cases. Content creator for training programs in AI/ML for executive leadership. Creator of the AI for Leaders course at Georgetown University SCS, PM Master program. Certified AWS Solutions Architect, SAFe SPC, PMP, and completed a micro-master in Executive Data Science. Chair for the AnitaB.org Artificial Intelligence membership committee. PhD candidate.
