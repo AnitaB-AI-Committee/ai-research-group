@@ -4,13 +4,419 @@
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Contact</title><link>https://anitab-ai.org/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/contact/</guid><description/></item><item><title>People</title><link>https://anitab-ai.org/people/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/people/</guid><description/></item><item><title>Tour</title><link>https://anitab-ai.org/tour/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/tour/</guid><description/></item><item><title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title><link>https://anitab-ai.org/post/20-12-02-icml-best-paper/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/post/20-12-02-icml-best-paper/</guid><description>&lt;p>Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
-&lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
-&lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>Richard Hendricks Wins First Place in the Wowchemy Prize</title><link>https://anitab-ai.org/post/20-12-01-wowchemy-prize/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/post/20-12-01-wowchemy-prize/</guid><description>&lt;p>Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p>
-&lt;p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p>
-&lt;p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>https://anitab-ai.org/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/publication/preprint/</guid><description>&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://anitab-ai.org/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Universities offering AI programs</title><link>https://anitab-ai.org/post/23-08-07-ai-universities/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/post/23-08-07-ai-universities/</guid><description>&lt;p>Universities offering AI programs&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">#&lt;/th>
+&lt;th style="text-align:left">Country&lt;/th>
+&lt;th style="text-align:left">State/Province&lt;/th>
+&lt;th style="text-align:left">University&lt;/th>
+&lt;th style="text-align:left">Degree&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://ontariotechu.ca/" target="_blank" rel="noopener">Ontario Tech University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Information Technology Security (Artificial Intelligence Security)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.queensu.ca/" target="_blank" rel="noopener">Queen&amp;rsquo;s University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Management - Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">3&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.uoguelph.ca/" target="_blank" rel="noopener">University of Guelph&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Collaborative Specialization in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.utoronto.ca/" target="_blank" rel="noopener">University of Toronto&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Health Informatics - Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">5&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://uwaterloo.ca/" target="_blank" rel="noopener">University of Waterloo&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Mathematics in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">6&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://uwaterloo.ca/" target="_blank" rel="noopener">University of Waterloo&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Data Science and Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.uwo.ca/" target="_blank" rel="noopener">Western University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Vector Institute Accredited Graduate Collaborative Specialization in Artificial Intelligence (CSAI)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">8&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Ontario&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.yorku.ca/" target="_blank" rel="noopener">York University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Management, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Alberta&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://concordia.ab.ca/" target="_blank" rel="noopener">Concordia University of Edmonton&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters Information Technology&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">10&lt;/td>
+&lt;td style="text-align:left">Canada&lt;/td>
+&lt;td style="text-align:left">Alberta&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.ualberta.ca/" target="_blank" rel="noopener">University of Alberta&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Masters/PhD Statistical Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Arizona&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.asu.edu/" target="_blank" rel="noopener">Arizona State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">12&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Arizona&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.arizona.edu/" target="_blank" rel="noopener">University of Arizona&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">13&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.caltech.edu/" target="_blank" rel="noopener">Caltech&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computation and Neural Systems&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">15&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.berkeley.edu/" target="_blank" rel="noopener">UC Berkeley&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Information and Data Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.ucla.edu/" target="_blank" rel="noopener">University of California, Los Angeles (UCLA)&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Various programs related to Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">17&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.sandiego.edu/" target="_blank" rel="noopener">University of San Diego&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Applied Artificial Intelligence - Online program&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">California&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.usc.edu/" target="_blank" rel="noopener">University of Southern California&lt;/a>&lt;/td>
+&lt;td style="text-align:left">MS in Computer Science- Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">19&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Colorado&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.colostate.edu/" target="_blank" rel="noopener">Colorado State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">20&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Colorado&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.colorado.edu/" target="_blank" rel="noopener">University of Colorado Boulder&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Georgia&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.gatech.edu/" target="_blank" rel="noopener">Georgia Institute of Technology&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">22&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Georgia&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.gatech.edu/" target="_blank" rel="noopener">Georgia Institute of Technology&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Online MS CS - program with Specializations (ML and AI concepts covered) : 1) Computational Perception &amp;amp; Robotics 2) Interactive Intelligence 3) Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">23&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Illinois&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.northwestern.edu/" target="_blank" rel="noopener">Northwestern University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">MS in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">24&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Illinois&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://illinois.edu/" target="_blank" rel="noopener">University of Illinois at Urbana-Champaign&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">25&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Kansas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.k-state.edu/" target="_blank" rel="noopener">Kansas State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science with concentration in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">26&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Kansas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.ku.edu/" target="_blank" rel="noopener">University of Kansas&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science with emphasis in Artificial Intelligence and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">27&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Kansas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.wichita.edu/" target="_blank" rel="noopener">Wichita State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with concentration in Data Science and Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">28&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Maryland&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.jhu.edu/" target="_blank" rel="noopener">Johns Hopkins&lt;/a>&lt;/td>
+&lt;td style="text-align:left">MS in Artificial Intelligence - Online program&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">29&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Massachusetts&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.harvard.edu/" target="_blank" rel="noopener">Harvard University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">30&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Massachusetts&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.mit.edu/" target="_blank" rel="noopener">MIT&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Electrical Engineering and Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">31&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Massachusetts&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.northeastern.edu/" target="_blank" rel="noopener">Northeastern University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Artificial Intelligence (MSAI)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">32&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nebraska&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.creighton.edu/" target="_blank" rel="noopener">Creighton University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with emphasis in Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">33&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nebraska&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.unomaha.edu/" target="_blank" rel="noopener">University of Nebraska at Omaha&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with specialization in Artificial Intelligence and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">34&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nebraska&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.unl.edu/" target="_blank" rel="noopener">University of Nebraska-Lincoln&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science with emphasis in Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">35&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nevada&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.nsc.edu/" target="_blank" rel="noopener">Nevada State College&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Applied Science in Data Analytics and Applied Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">36&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nevada&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.unlv.edu/" target="_blank" rel="noopener">University of Nevada, Las Vegas&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with Machine Learning and Artificial Intelligence emphasis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">37&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Nevada&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.unr.edu/" target="_blank" rel="noopener">University of Nevada, Reno&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, emphasis in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">38&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">New Mexico&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.nmsu.edu/" target="_blank" rel="noopener">New Mexico State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science with emphasis in Artificial Intelligence and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">39&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">New Mexico&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.unm.edu/" target="_blank" rel="noopener">University of New Mexico&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with concentration in Artificial Intelligence and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">40&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">New York&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.columbia.edu/" target="_blank" rel="noopener">Columbia University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Computer Science Master&amp;rsquo;s Degree - Natural Language Processing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">41&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">New York&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.columbia.edu/" target="_blank" rel="noopener">Columbia University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">42&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">New York&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.nyu.edu/" target="_blank" rel="noopener">New York University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Data Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">43&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Oklahoma&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.okstate.edu/" target="_blank" rel="noopener">Oklahoma State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science with concentration in Artificial Intelligence and Data Science&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">44&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Oklahoma&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.ou.edu/" target="_blank" rel="noopener">University of Oklahoma&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Data Science and Analytics with focus in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">45&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Oklahoma&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://utulsa.edu/" target="_blank" rel="noopener">University of Tulsa&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with concentration in Artificial Intelligence and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">46&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Oregon&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://oregonstate.edu/" target="_blank" rel="noopener">Oregon State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">47&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Pennsylvania&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.cmu.edu/" target="_blank" rel="noopener">Carnegie Mellon University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">48&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Pennsylvania&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.cmu.edu/" target="_blank" rel="noopener">Carnegie Mellon University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Various programs related to Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">49&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Texas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.rice.edu/" target="_blank" rel="noopener">Rice University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">50&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Texas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.utexas.edu/" target="_blank" rel="noopener">University of Texas at Austin&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">51&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Texas&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.utexas.edu/" target="_blank" rel="noopener">University of Texas at Austin&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Various programs related to Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">52&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Utah&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.byu.edu/" target="_blank" rel="noopener">Brigham Young University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Bachelor of Science in Computer Science with emphasis in Machine Learning and Data Science&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">53&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Utah&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.utah.edu/" target="_blank" rel="noopener">University of Utah&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computing, emphasis in Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">54&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Utah&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.usu.edu/" target="_blank" rel="noopener">Utah State University&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Data Science and Machine Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">55&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Washington&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.washington.edu/" target="_blank" rel="noopener">University of Washington&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Master of Science in Computer Science, Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">56&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Washington&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.washington.edu/" target="_blank" rel="noopener">University of Washington&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Various programs related to Artificial Intelligence&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">57&lt;/td>
+&lt;td style="text-align:left">United States&lt;/td>
+&lt;td style="text-align:left">Wisconsin&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://www.wisc.edu/" target="_blank" rel="noopener">University of Wisconsin - Madison&lt;/a>&lt;/td>
+&lt;td style="text-align:left">MS in Electrical and Computer Engineering: Machine Learning and Signal processing&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Contact</title><link>https://anitab-ai.org/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/contact/</guid><description/></item><item><title>People</title><link>https://anitab-ai.org/people/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/people/</guid><description/></item><item><title>Tour</title><link>https://anitab-ai.org/tour/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/tour/</guid><description/></item><item><title>An example preprint / working paper</title><link>https://anitab-ai.org/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/publication/preprint/</guid><description>&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://anitab-ai.org/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
