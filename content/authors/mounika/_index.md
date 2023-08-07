@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Shawn McCarthy
+title: Zorina Alliata
 
 # Full Name (for SEO)
-first_name: Shawn
-last_name: McCarthy
+first_name: Zorina
+last_name: Alliata
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Vice President Global Architecture, Big Data, Information Risk
+role: Sr AI/ML Strategist at Amazon
 
 # Organizations/Affiliations
 organizations:
-  - name: Manulife
+  - name: Amazon
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ask me about Natural Language Processing, Anomaly Detection, Recommender Systems, Professional Development, AI in Finance
+bio: Ask me about Applied Machine Learning in Industry, Machine Learning in Sustainability, AI Strategy and Leadership, Supporting Women in Tech, Anything about robots!
+
 
 interests:
   - Artificial Intelligence

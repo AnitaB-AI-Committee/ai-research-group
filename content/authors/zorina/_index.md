@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Shawn McCarthy
+title: Fatma Tarlaci, Ph.D.
 
 # Full Name (for SEO)
-first_name: Shawn
-last_name: McCarthy
+first_name: Fatma
+last_name: Tarlaci
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Vice President Global Architecture, Big Data, Information Risk
+role: VP Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Manulife
+  - name: OpenTeams
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ask me about Natural Language Processing, Anomaly Detection, Recommender Systems, Professional Development, AI in Finance
+bio: Ask me about Machine Learning, Data Science, Natural Language Processing, Being a Tech Lead, Societal Impact of AI
 
 interests:
   - Artificial Intelligence
