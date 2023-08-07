@@ -69,3 +69,28 @@ user_groups:
 ---
 
 AI Strategy and AI Product Management. Working with global companies to set up their AI strategy and design successful solutions and implementation plans for injecting AI and ML in their products and services. Advises executive leaders on AI decision making, ROI and AI risk management techniques. Creates and contributes to AI products and packaged solutions for complex business use cases. Content creator for training programs in AI/ML for executive leadership. Creator of the AI for Leaders course at Georgetown University SCS, PM Master program. Certified AWS Solutions Architect, SAFe SPC, PMP, and completed a micro-master in Executive Data Science. Chair for the AnitaB.org Artificial Intelligence membership committee. PhD candidate.
+
+### Online Courses
+
+- [Practical Project Management for Machine Learning Projects](https://www.udemy.com/course/practical-project-management-for-machine-learning-projects/learn/lecture/10836876#overview)
+- [Create and Execute Successful Machine Learning (ML) Programs](https://www.udemy.com/course/create-and-execute-successful-machine-learning-programs/learn/lecture/30238636#overview)
+- [Get I.T.! Start a Career In Information Technology](https://www.udemy.com/course/get-i-t-start-a-career-in-i-t/learn/lecture/8390302#overview)
+
+### Blogs and Articles
+
+- [Zorina: Artificial Intelligence, Machine Learning, and Agile Practices](https://scs.georgetown.edu/news-and-events/article/8630/artificial-intelligence-machine-learning-agile-practices)
+- [Detecting data drift using Amazon SageMaker](https://aws.amazon.com/blogs/architecture/detecting-data-drift-using-amazon-sagemaker/)
+
+### Podcasts
+
+- [The Agile in Action with Bill Raymond Podcast](https://agileinaction.com/agile-in-action-podcast/2023/05/23/ai-transformation-and-agile-leadership.html)
+
+### Video
+
+- [Cum creăm programe de inteligență artificială responsabile?| PODCAST ep 6 - YouTube](https://www.youtube.com/watch?v=6TIG07vN45U)
+
+### Books
+
+- [Get I.T.! How to Start in IT](https://www.amazon.com/I-T-Start-Career-Information-Technology/dp/0996289720/ref=sr_1_3?crid=35JAJT1CXDQ9&keywords=zorina+alliata&qid=1688996459&sprefix=zorina+alliata%2Caps%2C174&sr=8-3)
+- [Get I.T.! How to Start as a Software Developer](https://www.amazon.com/I-T-Start-Career-Information-Technology/dp/0996289704/ref=sr_1_2?crid=35JAJT1CXDQ9&keywords=zorina+alliata&qid=1688996459&sprefix=zorina+alliata%2Caps%2C174&sr=8-2)
+
