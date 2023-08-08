@@ -10,11 +10,11 @@ last_name: Aczél Boivie
 superuser: true
 
 # Role/position
-role: Board Chair
+role: CEO
 
 # Organizations/Affiliations
 organizations:
-  - name: CCTS
+  - name: Strategic Technology Leadership Corporation
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
