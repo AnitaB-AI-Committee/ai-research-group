@@ -8,14 +8,17 @@
 &lt;h3 id="books">Books&lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://a.co/d/7iTE3Y5" target="_blank" rel="noopener">Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play (2nd Edition) by David Foster&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://a.co/d/7iTE3Y5" target="_blank" rel="noopener">&lt;strong>Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play (2nd Edition) by David Foster&lt;/strong>&lt;/a>&lt;/p>
 &lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This practical book is designed to teach machine learning engineers and data scientists how to create impressive generative deep learning models from scratch. Using TensorFlow and Keras, readers can build models including variational autoencoders (VAEs), generative adversarial networks (GANs), Transformers, and more. The book starts with deep learning basics and gradually moves to cutting-edge architectures, enabling models to learn more efficiently and creatively.&lt;/p>
 &lt;h4 id="author">Author&lt;/h4>
 &lt;p>David Foster is a Founding Partner of ADSP, a consultancy delivering bespoke data science and AI solutions. He holds an MA in Mathematics from Trinity College, Cambridge and an MSc in Operational Research from the University of Warwick.&lt;/p>
 &lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://a.co/d/2wj4C18" target="_blank" rel="noopener">Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd Edition) by Nithin Buduma, Nikhil Buduma, and Joe Papa&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://a.co/d/2wj4C18" target="_blank" rel="noopener">&lt;strong>Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms (2nd Edition) by Nithin Buduma, Nikhil Buduma, and Joe Papa&lt;/strong>&lt;/a>&lt;/p>
 &lt;h4 id="summary-1">Summary&lt;/h4>
 &lt;p>This book is designed for Python-proficient programmers, software engineering professionals, and computer science majors. It describes the intuition behind machine learning and deep learning breakthroughs without technical jargon. Readers will learn how to reimplement these breakthroughs independently and understand them at a level that rivals top developers in the field.&lt;/p>
 &lt;h4 id="authors">Authors&lt;/h4>
@@ -25,14 +28,18 @@
 &lt;li>Joe Papa, founder of INSPIRD.ai with over 25 years of experience in research &amp;amp; development.&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
 &lt;li>
-&lt;p>&lt;a href="https://a.co/d/1cowdch" target="_blank" rel="noopener">Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (1st Edition) by Magnus Ekman&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://a.co/d/1cowdch" target="_blank" rel="noopener">&lt;strong>Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow (1st Edition) by Magnus Ekman&lt;/strong>&lt;/a>&lt;/p>
 &lt;h4 id="summary-2">Summary&lt;/h4>
 &lt;p>A complete guide to deep learning (DL) that elucidates both the core concepts and the hands-on programming techniques needed for success. Ideal for developers, data scientists, analysts, and others&amp;ndash;including those with no prior machine learning or statistics experience. The author provides concise, well-annotated code examples using TensorFlow with Keras, covering the two dominating Python libraries for DL used in industry and academia.&lt;/p>
 &lt;h4 id="author-1">Author&lt;/h4>
 &lt;p>Magnus Ekman, Ph.D., is a director of architecture at NVIDIA Corporation. His doctorate is in computer engineering, and he is the inventor of multiple patents. In his current role at NVIDIA, he leads an engineering team working on CPU performance and power efficiency for system on chips targeting the autonomous vehicle market.&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Universities offering AI programs</title><link>https://anitab-ai.org/post/23-08-07-ai-books/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/post/23-08-07-ai-books/</guid><description>&lt;p>Universities offering AI programs&lt;/p>
+&lt;/ul>
+&lt;hr></description></item><item><title>Universities offering AI programs</title><link>https://anitab-ai.org/post/23-08-07-ai-books/</link><pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><guid>https://anitab-ai.org/post/23-08-07-ai-books/</guid><description>&lt;p>Universities offering AI programs&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
