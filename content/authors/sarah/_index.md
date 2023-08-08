@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Pratibha Shambhangoudar
+title: Sarah Masud
 
 # Full Name (for SEO)
-first_name: Pratibha
-last_name: Shambhangoudar
+first_name: Sarah
+last_name: Masud
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Engineering leadership mentor
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Plato
+  - name: Technical University of Munich
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ask me about AI Entrepreneurship, Engineering management (Software and AI), Driving in house AI projects, Natural language Processing, Mentoring
+bio: Ask me about Natural Language Processing, Social Computing, Large Scale Social Networks, Open Source, Tips for reviewing conference articles 
 
 interests:
   - Artificial Intelligence
 
 education:
   courses:
-    - course: Executive MBA
-      institution: Yale School of Management
-      year: 2022
-    - course: Master of Science in Information Science
-      institution: University of Pittsburgh
-      year: 2015
+    - course: Doctor of Philosophy (Ph.D.), Computer Science
+      institution: Indraprastha Institute of Information Technology, Delhi
+      year: 2024
+    - course: Bachelor's Degree, Computer Engineering
+      institution: Jamia Millia Islamia
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,8 +67,4 @@ user_groups:
   - Researchers
 ---
 
-Currently focusing on Engineering leadership/executive or founding member roles only and open to relocation
-
-I am passionate about developing innovative products/solutions, bringing technology to the masses in a meaningful manner. As a leader, I believe in identifying the talent, nurturing it and bringing the best out of people. A breadth of experience in engineering leadership, artificial intelligence, entrepreneurship, software development, technology consulting, R&D spanning from Supply chain, retail, banking, healthcare, and video-gaming industry. 
-
-Orchestrated an organization-wide transformational change that sets the company’s product vision, strategy, and distributed development of an AI-based self-service platform developed by a cross-functional global team of size 21 spread across 4 main divisions in the company aka digital, marketing, site merchandising, guest experiences, data sciences. Managed and coached global teams of software engineers and data scientists in North America, Asia Pacific, and the EU regions. Cofounded a startup in the video analytics and developed a B2B app with a 50 people team, delivering a dual business value at the intersection of inspiring ways to discover new products from trusted network and providing low cost, high converting value to content creators in an industry with a market size of $16.4 billion in 2022. I have worked on several cross-functional initiatives like operationalizing the online subscription service for meal kits with $112 million in sales. Led a process enhancement initiative to simplify the process of retail peak season preparation resulting in significant reduction in overall cycle time for each of those applications during disaster recovery process.
+Sarah is a PhD student at the Laboratory for Computational Social Systems (LCS2) at Indraprastha Institute of Information Technology, New Delhi, India. Her Ph.D. is supported by the illustrious Prime Minister Doctoral Research Fellowship in partnership with Wipro AI. Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web. She has published in top-tier conferences and journals like ICDE, KDD, TKDD, CSUR and SIGWEB. In addition, she is a reviewer with the Journal of Open Source Software, having reviewed 10+ projects since 2020. She is also a volunteer with AnitaB.org and a member of the AI Membership Committee.
