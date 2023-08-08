@@ -22,6 +22,11 @@ bio: Ask me about Natural Language Processing, Anomaly Detection, Recommender Sy
 
 interests:
   - Artificial Intelligence
+  - Computational Linguistics
+  - Big Data Science
+  - Anomaly Detection
+  - Recommender Systems 
+  - Natural Language Processing
 
 education:
   courses:
@@ -42,16 +47,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=
+    link: https://twitter.com/shawnemccarthy
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=5lwpyxcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/AliceNN-ucdenver
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shawnemccarthy/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,8 +81,4 @@ user_groups:
   - Researchers
 ---
 
-Mr. McCarthy is an experienced Senior-level IT executive with over 18 years experience whose passion is to inspire growth. His background includes leadership, organizational evolution, M&A, agile and devops change agent, recruiting interns and professionals, developing/coaching teams and individuals, system architecture, system development and design, application programming, product support, business analysis, and professional training. He has performed exceptionally in every environment he has ever worked in, as can be measured by his numerous recommendations and letters of recognition. Mr. McCarthy’s ability to learn new technologies, adapt to any situation, and develop new leadership skills coupled with an energy and passion that is infectious has made him a valuable resource in any technical environment. 
-
-Specialties: Software Development, Organizational Development, M&A, Due Diligence, Solution Architecture, API, ESB and SOA, Agile Coach
-
-Development Experience: C#, Java, C, C++, Visual Basic, CICS, COBOL, SQL, HTML, XML, XSLT, ASP.Net, Javascript, Ajax, Perl, Artificial Intelligence, WPF, WCF, LINQ, SQL Server, MySql, DB2, Mainframe Z/OS, Linux, Windows, MAC OSX, Web Services, SOA, Networking, IVR, OLTP, DirectX, OpenGL, Graphics Programming, MSMQ, MQSeries, WebSphere, Training, Compiler Design
+Shawn McCarthy is a distinguished AI Committee Member and Vice President of Global Architecture, Big Data, and Information Risk at Manulife. He is currently pursuing a PhD, focusing on the impact of global events on market sentiment, and is developing an extensive model for market prediction and risk management. Additionally, as a Graduate Instructor at the University of Colorado, he fosters innovation and growth in future leaders. His work consistently echoes his professional motto `Inspire Growth.`
